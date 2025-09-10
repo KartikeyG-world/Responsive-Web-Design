@@ -4,34 +4,32 @@ This repository contains my hands-on web development projects completed as part 
 
 Projects Included
 
-Product Landing Page
+1. Product Landing Page
 
-Built a responsive landing page using HTML and CSS.
+   Built a responsive landing page using HTML and CSS.
 
-Implemented flexbox layouts and media queries for responsiveness.
+   Implemented flexbox layouts and media queries for responsiveness.
 
-Embedded a product video and a functional signup form.
+   Embedded a product video and a functional signup form.
 
-Personal Portfolio Webpage
+2. Personal Portfolio Webpage
 
-Created a professional portfolio page showcasing my projects.
+   Created a professional portfolio page showcasing my projects.
+ 
+   Used navigation links, fixed navbar, and smooth scrolling.
 
-Used navigation links, fixed navbar, and smooth scrolling.
+   Ensured mobile-friendly responsive design.
 
-Ensured mobile-friendly responsive design.
+3. Technical Documentation Page
 
-Technical Documentation Page
+   Developed a clean and structured technical documentation page.
 
-Developed a clean and structured technical documentation page.
+   Used semantic HTML and code snippets.
 
-Used semantic HTML and code snippets.
+   Implemented responsive side navigation bar.
 
-Implemented responsive side navigation bar.
+4. Tribute Page
 
-Tribute Page
+   Designed a tribute page for a notable personality.
 
-Designed a tribute page for a notable personality.
-
-Centered image with caption, structured content, and responsive layout.
-
-Used proper HTML semantic elements and CSS styling.
+   Centered image with caption, structured content, and responsive layout.
