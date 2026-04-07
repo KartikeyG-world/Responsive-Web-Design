@@ -4,7 +4,7 @@ This repository contains my hands-on web development projects completed as part 
 
 Projects Included
 
-1. Product Landing Page
+1. Product Landing Page-:
 
    Built a responsive landing page using HTML and CSS.
 
