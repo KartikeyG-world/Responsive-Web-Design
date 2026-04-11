@@ -12,7 +12,7 @@ Projects Included
 
    Embedded a product video and a functional signup form.
 
-2. Personal Portfolio Webpage
+2. Personal Portfolio Webpage.:
 
    Created a professional portfolio page showcasing my projects.
  
