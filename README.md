@@ -26,7 +26,7 @@ Projects Included
 
    Used semantic HTML and code snippets.
 
-   Implemented responsive side navigation bar.
+   Implemented responsive side navigation bar
 
 4. Tribute Page
 
