@@ -28,8 +28,9 @@ Projects Included
 
    Implemented responsive side navigation bar
 
+
 4. Tribute Page
 
-   Designed a tribute page for a notable personality.
+   Designed a tribute page for a notable personality
 
-   Centered image with caption, structured content, and responsive layout.
+   Centered image with caption, structured content, and responsive layout
